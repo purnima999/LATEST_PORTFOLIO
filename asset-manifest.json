@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/LATEST_PORTFOLIO/static/css/main.039bf95e.css",
+    "main.js": "/LATEST_PORTFOLIO/static/js/main.1681383a.js",
+    "static/media/Purnima_Pathak (2).pdf": "/LATEST_PORTFOLIO/static/media/Purnima_Pathak (2).c93b1dd01904252d6998.pdf",
+    "static/media/github.png": "/LATEST_PORTFOLIO/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/linkedin.png": "/LATEST_PORTFOLIO/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/illustration.svg": "/LATEST_PORTFOLIO/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/LATEST_PORTFOLIO/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
+    "static/media/mysql-icon.svg": "/LATEST_PORTFOLIO/static/media/mysql-icon.e5a509a5d3ca7443ae6ccf379181381d.svg",
+    "static/media/node-icon.svg": "/LATEST_PORTFOLIO/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/LATEST_PORTFOLIO/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/bootstrap-icon.svg": "/LATEST_PORTFOLIO/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/LATEST_PORTFOLIO/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "static/media/phone-icon.svg": "/LATEST_PORTFOLIO/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "index.html": "/LATEST_PORTFOLIO/index.html",
+    "static/media/email-icon.svg": "/LATEST_PORTFOLIO/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/html-icon.svg": "/LATEST_PORTFOLIO/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/css-icon.svg": "/LATEST_PORTFOLIO/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/vscode-icon.svg": "/LATEST_PORTFOLIO/static/media/vscode-icon.3001bc63a45d488b7d2c332e4a2059ad.svg",
+    "static/media/js-icon.svg": "/LATEST_PORTFOLIO/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "static/media/vue-icon.svg": "/LATEST_PORTFOLIO/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
+    "main.039bf95e.css.map": "/LATEST_PORTFOLIO/static/css/main.039bf95e.css.map",
+    "main.1681383a.js.map": "/LATEST_PORTFOLIO/static/js/main.1681383a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.1681383a.js"
+  ]
+}
