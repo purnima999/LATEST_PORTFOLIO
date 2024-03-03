@@ -5,7 +5,7 @@ import { Form } from "../Form/Form";
 
 export function Contact() {
   return (
-    <Container id="contato">
+    <Container id="contact">
       <header>
         <h2>Contact me</h2>
         <p>
@@ -20,10 +20,10 @@ export function Contact() {
             purnimapathak999@gmail.com
           </a>
         </div>
-        {/* <div>
+        <div>
           <img src={phoneIcon} alt="Email" />
-          <a href="tel:+919548510085">(31) 7351138646</a>
-        </div> */}
+          <a href="tel:+919548510085">(+91) 7351138646</a>
+        </div>
       </div>
       <Form></Form>
     </Container>

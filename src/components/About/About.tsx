@@ -1,28 +1,25 @@
-import { Container } from "./styles";
-import profileImage from "../../assets/profile-image.jpg"
+import ScrollAnimation from "react-animate-on-scroll";
 import cssIcon from "../../assets/css-icon.svg";
 import htmlIcon from "../../assets/html-icon.svg";
 import jsIcon from "../../assets/js-icon.svg";
-import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
-import vueIcon from "../../assets/vue-icon.svg";
-import ScrollAnimation from "react-animate-on-scroll";
+import { Container } from "./styles";
 
 
 export function About(){
   return(
-    <Container id="sobre">
+    <Container id="about">
       <div className="about-text">
         <ScrollAnimation animateIn="fadeInLeft">
           <h2>About me</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
-          <p>I am a Software Engineer holding 2+ years of experience in front-end technologies.</p>
+          <p>Results-driven Software Engineer with expertise in front-end technologies like ReactJS, JavaScript, Redux, and Saga with 2+ years of experience</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000} style={{marginTop: "2rem", marginBottom: "2rem"}}>
 
-          <p>Develop the application using HTML, CSS, JavaScript, ReactJs, nodeJs, MongoDB, and ExpressJs. I have a facmilarity in developing 
+          <p>Develop the application using HTML, CSS, JavaScript, ReactJs. I have a facmilarity in developing 
             layouts as per the requirements
           </p>
         </ScrollAnimation>
@@ -60,11 +57,11 @@ export function About(){
             <img src={cssIcon} alt="Css" />
           </ScrollAnimation>
           </div>
-          <div className="hability">
+          {/* <div className="hability">
           <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}> 
             <img src={nodeIcon} alt="Node" />
           </ScrollAnimation>
-          </div>
+          </div> */}
 
           <div className="hability">
           <ScrollAnimation animateIn="fadeInUp" delay={0.7 * 1000}>
